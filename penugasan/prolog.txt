@@ -1,0 +1,6 @@
+1. Pahami car akerja PHP
+2. Buat CRUD sederhana dengan PHP, kasus terserah
+3. Pelajari Code Igniter:
+	- struktur MVC
+	- CRUD di CI
+4. Perdalam SQL
