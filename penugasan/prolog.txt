@@ -1,6 +1,17 @@
 1. Pahami car akerja PHP
-2. Buat CRUD sederhana dengan PHP, kasus terserah
+2. Buat CRUD sederhana dengan PHP, kasus: data pegawai*
 3. Pelajari Code Igniter:
 	- struktur MVC
 	- CRUD di CI
 4. Perdalam SQL
+
+--------------------------------
+data pegawai mencatat:
+	- nama
+	- jabatan (Direktur, General Manager, kepala bagian keuangan, staff keuangan, kepala HRD, staf hrd, operator)
+	- Level (Senior, Junior)
+	- alamat
+	- no. ktp
+
+rules:
+1. satu pegawai hanya mempunyai satu jabatan.
